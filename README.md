@@ -20,8 +20,8 @@ their expertise, their goals in a debate, their debating strategies.
 
 The classes of this project have already been used in two peer-reviewed publications:
 
-1. **Empirical Evaluation of Strategies for Multiparty Argumentative Debates** (CLIMA'14):
+1. **Empirical Evaluation of Strategies for Multiparty Argumentative Debates** (in **CLIMA'14**):
 In this work, different agent strategies have been defined, multi-agent debates have been simulated, and finally
 the strategies have been compared and evaluated.
-2. **Identifying Malicious Behavior in Multi-party Bipolar Argumentation Debates** (EUMAS'15):
+2. **Identifying Malicious Behavior in Multi-party Bipolar Argumentation Debates** (in **EUMAS'15**):
 In this work, some "malicious" agents may strategically lie and hide information, so we propose a method in order to identify such agents.
